@@ -26,7 +26,7 @@ Senior Full-Stack Developer based in Antananarivo, Madagascar — 12+ years buil
 
 - 📐 Methodologies: Agile Scrum · TDD · Clean Architecture · ETL/Data Mapping · UML
 - 🌍 Languages: French (fluent) · English (technical) · Malagasy (native)
-- 📫 Reach me: rabearisonnjara@gmail.com · [LinkedIn](https://www.linkedin.com/in/rabearison-njara-12114a90/)
+- 📫 Contact me: [njara.vercel.app/#contact](https://njara.vercel.app/#contact) · [LinkedIn](https://www.linkedin.com/in/rabearison-njara-12114a90/)
 - 🌐 Portfolio: [njara.vercel.app](https://njara.vercel.app)
 
 #### Selected projects
